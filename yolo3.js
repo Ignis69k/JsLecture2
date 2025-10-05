@@ -39,3 +39,13 @@ dataab++; // 11
 ++dataab; // 12
 dataab++; // 13
 console.log(dataab); // 13
+
+// Nullist Operator
+
+let ww = null
+let oo
+let ww1 = 'OwO'
+console.log('-----------------------');
+console.log(ww ?? 'uwu'); // if null define it as uwu //or the value inside the semi-colon
+console.log(oo ?? 'yalooo'); // like above too
+console.log(ww1 ?? 'yahalooo'); // this is not null
